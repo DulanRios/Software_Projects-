@@ -1,4 +1,4 @@
-# Dulan Rios-Lopez
+__author__="Dulan Rios-Lopez"
 # This project is a math quiz about calculating the area of triangles and
 # classifying triangles
 # Sources include w3schools.com, "Learn to Program" Derek Banas video
